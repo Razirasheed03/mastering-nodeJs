@@ -13,5 +13,3 @@ const readStream=fs.createReadStream('streamdata.txt')
 const writeStream=fs.createWriteStream('sample.txt')
 
 readStream.pipe(writeStream)
-
-//////copied data from the readfile and pasted in writefile
