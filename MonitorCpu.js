@@ -1,2 +1,2 @@
-const os=require('os')
+const os = require('os')
 console.log(os.cpus())

@@ -1,3 +1,3 @@
-const os=require('os')
+const os = require('os')
 
-console.log('ram usage in bytes',os.freemem())
+console.log('ram usage in bytes', os.freemem())
